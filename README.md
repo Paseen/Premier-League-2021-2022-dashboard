@@ -2,6 +2,7 @@
 
 Dashboard link: https://public.tableau.com/app/profile/silvia4834/viz/PremierLeague20212022/Storia2?p
 <br>
+- check out the [presentation of the project](https://github.com/Paseen/Premier-League-2021-2022-dashboard/blob/main/Report%20data%20visualization.pdf)
 ## Dashboard 1
 
 This dashboard displays the number of goals and assists for the best scores either in the whole league or in each team; the selection can be done throughout a window menu. The goals and assists are normalised per match. <br><br>
