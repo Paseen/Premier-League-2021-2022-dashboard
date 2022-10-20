@@ -10,7 +10,6 @@ If a player is clicked, his statistics will be displayed.
 
 ## Dashboard 2 
 
-This dashboard displays the relation between the number of ...
-
-
-Readme is work in progress, I'll update it soon!!
+This dashboard displays the relation between the number of saves for each main team's goalkeeper and the percentage of matches that the relative team played without receaving any goal. 
+<br>
+Even in this case the goalkeeper statistics will show if his icon is clicked. 
